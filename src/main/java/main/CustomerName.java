@@ -12,6 +12,7 @@ public class CustomerName{
 
 	public void setName(String name) {
 		//write your code here
+		system.out.println("hi")
 	}
 	
 }
